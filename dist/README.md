@@ -1,10 +1,10 @@
 
-<h1 align="center">MONEY MAKER TO MAKE YOU RICH </h1>
+<h1 align="center">readme generater</h1>
   
-![badge](https://img.shields.io/badge/license-GNU-darkgreen)<br />
+![badge](https://img.shields.io/badge/license-MIT-darkgreen)<br />
 
 ## Description
-THIS IS A MONEY APP THAT WILL HELP YOU MANAGE YOUR MONEY AND MAKE YOU VERY RICH 
+help users generate a readme life for their project 
 
 ## Table of Contents
 - [Description](#description)
@@ -16,27 +16,27 @@ THIS IS A MONEY APP THAT WILL HELP YOU MANAGE YOUR MONEY AND MAKE YOU VERY RICH
 - [Questions](#questions)
 
 ## Installation
-FOR THIS APP YOU NEED TO INSTALL NPM INQUIRER 
+install npm inquirer
 
 ## Usage
-THIS PROJECT IS USED TO MAKE THE USER RICH AND HELP THEM STAY RICH FOR YOUR LIVES 
+to be graded for bootcamp 
 
 ## License
-![badge](https://img.shields.io/badge/license-GNU-darkgreen)
+![badge](https://img.shields.io/badge/license-MIT-darkgreen)
 <br />
-This application is covered by the GNU license. 
+This application is covered by the MIT license. 
 
 ## Contributing
-JESUS GOOGLE NPM 
+jesus and google search
 
 ## Tests
- THERE WERE NO TEST FOR THIS PROJECT 
+ no tests
 
  ## Questions
-FEEL FREE TO CALL ME OR EMAIL WHICH EVER YOU WANT<br />
+email<br />
 <br />
-Find me on GitHub: [JARELLANO562](https://github.com/JARELLANO562)<br />
+Find me on GitHub: [jarellano562](https://github.com/jarellano562)<br />
 <br />
- Email me with any questions: JARELLANO562@YAHOO.COM<br /><br />
+ Email me with any questions: jarellano562@yahoo.com<br /><br />
 This README was generated with ❤️ by JESUS!) 
     

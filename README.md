@@ -2,13 +2,13 @@
    
 ## DESCRIPTION 
   
-A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](.dist/README.md)  
+A node.js application that uses user input from inquirer to populate a README file for user repository. The README file is created in the dist directory and can be found [HERE](./dist/README.md)  
   
 Below is the gif showing the functionality of the application:
   
-![README Generator](./)
+![README Generator](./images/mockup.gif)
   
-The full movie file showing functionality of the application can be found [here](./)  
+The full movie file showing functionality of the application can be found [HERE](https://drive.google.com/file/d/1WX8jjI8it4rHu4Jq1nxCJndYXJPw9bPS/view?usp=sharing)  
   
 ## USER STORY
   
@@ -37,7 +37,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
-  
+## MOCK UP 
+
+*The follwoing image shows the web application's appearance and functionality 
+![](./images/mockuppic.png)
+
+
 ## TABLE OF CONTENTS 
 - [Description](#description)
 - [User Story](#user-story)
