@@ -2,6 +2,8 @@
    
 ## DESCRIPTION 
   
+https://jarellano562.github.io/readme-help/.
+
 A node.js application that uses user input from inquirer to populate a README file for user repository. The README file is created in the dist directory and can be found [HERE](./dist/README.md)  
   
 Below is the gif showing the functionality of the application:
